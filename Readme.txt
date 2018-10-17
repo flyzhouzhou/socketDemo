@@ -1,0 +1,1 @@
+this is a socket communicate test file
